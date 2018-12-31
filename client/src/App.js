@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Browser as Router, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import Fib from './Fib';
 import OtherPage from './OtherPage';
 import logo from './logo.svg';
